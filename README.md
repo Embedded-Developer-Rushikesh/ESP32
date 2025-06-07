@@ -1,2 +1,1 @@
-# ESP32
- ESP32 Using Embedded C
+This repository contains diverse ESP32 projects demonstrating IoT applications, sensor interfacing, and control systems. Projects include LED control, DHT22 sensor data logging to ThingSpeak, MQTT communication, capacitive touch input, relay control, and more. Ideal for learning practical ESP32 embedded development.
